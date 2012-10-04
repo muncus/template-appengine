@@ -1,4 +1,5 @@
-=== Appengine Template
+Appengine Template
+==================
 
 Base template for appengine apps, including Bootstrap.
 
